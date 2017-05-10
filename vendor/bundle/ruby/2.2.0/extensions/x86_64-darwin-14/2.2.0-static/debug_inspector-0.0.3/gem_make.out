@@ -1,0 +1,15 @@
+current directory: /Users/katyou/Desktop/ijgn/holiday_concierge/vendor/bundle/ruby/2.2.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+/Users/katyou/.rbenv/versions/2.2.4/bin/ruby -r ./siteconf20170510-96787-d14yq8.rb extconf.rb
+creating Makefile
+
+current directory: /Users/katyou/Desktop/ijgn/holiday_concierge/vendor/bundle/ruby/2.2.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /Users/katyou/Desktop/ijgn/holiday_concierge/vendor/bundle/ruby/2.2.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+
+current directory: /Users/katyou/Desktop/ijgn/holiday_concierge/vendor/bundle/ruby/2.2.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20170510-96787-1777e6u

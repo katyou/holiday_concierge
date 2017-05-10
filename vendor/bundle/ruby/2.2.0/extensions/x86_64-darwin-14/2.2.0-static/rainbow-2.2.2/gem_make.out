@@ -1,0 +1,5 @@
+current directory: /Users/katyou/Desktop/ijgn/holiday_concierge/vendor/bundle/ruby/2.2.0/gems/rainbow-2.2.2/ext
+/Users/katyou/.rbenv/versions/2.2.4/bin/ruby mkrf_conf.rb
+
+current directory: /Users/katyou/Desktop/ijgn/holiday_concierge/vendor/bundle/ruby/2.2.0/gems/rainbow-2.2.2/ext
+/Users/katyou/.rbenv/versions/2.2.4/bin/ruby -rubygems /Users/katyou/Desktop/ijgn/holiday_concierge/vendor/bundle/ruby/2.2.0/gems/rake-11.3.0/exe/rake RUBYARCHDIR=/Users/katyou/Desktop/ijgn/holiday_concierge/vendor/bundle/ruby/2.2.0/extensions/x86_64-darwin-14/2.2.0-static/rainbow-2.2.2 RUBYLIBDIR=/Users/katyou/Desktop/ijgn/holiday_concierge/vendor/bundle/ruby/2.2.0/extensions/x86_64-darwin-14/2.2.0-static/rainbow-2.2.2

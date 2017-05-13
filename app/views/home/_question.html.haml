@@ -1,0 +1,13 @@
+
+-if @question == nil
+  %q_title= 質問１
+  %question
+    = form_for @question do |f|
+      = f.label "質問１"
+      = f.check_box :answer, class: "check_box_label"
+
+-elsif @question == 2
+
+-elsif @question == 3
+
+-elsif @question == 4

@@ -1,0 +1,7 @@
+%header
+  .container
+    %a.image{href: admin_users_path} 管理画面メニュー
+    %header_menu
+      =link_to "映画一覧", admin_movies_path, class: "btn-left btn"
+      =link_to "スクレイピング結果一覧", admin_scraiping_path, class: "btn-left btn"
+      =link_to "ユーザー情報", users_path, class: "btn-left btn"

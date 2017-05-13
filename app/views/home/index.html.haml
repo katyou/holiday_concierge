@@ -1,2 +1,10 @@
-%h1 Home#index
-%p Find me in app/views/home/index.html.haml
+%center
+  %h1 空き時間コンシュルジュ
+  .container
+    .desc このサービスは質問に答えることで、数分後に上映される映画の中から一番最適な映画を提供いたします。
+      %br
+      .subdesc このサービスは、大分県のアミュプラザ大分の映画情報のみ提供しています。
+
+.question
+  .container
+    = render :partial 'question'

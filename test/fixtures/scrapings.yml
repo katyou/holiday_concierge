@@ -1,13 +1,13 @@
 # == Schema Information
 #
-# Table name: question3s
+# Table name: scrapings
 #
-#  id         :integer          not null, primary key
-#  title      :string(255)      not null
-#  answer     :string(255)      not null
-#  point      :integer          not null
-#  created_at :datetime         not null
-#  updated_at :datetime         not null
+#  id             :integer          not null, primary key
+#  movie_title    :string(255)
+#  screening_time :string(255)
+#  image_url      :string(255)
+#  created_at     :datetime         not null
+#  updated_at     :datetime         not null
 #
 
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html

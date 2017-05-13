@@ -1,5 +1,5 @@
 current directory: /Users/katyou/Desktop/ijgn/holiday_concierge/vendor/bundle/ruby/2.2.0/gems/byebug-9.0.6/ext/byebug
-/Users/katyou/.rbenv/versions/2.2.4/bin/ruby -r ./siteconf20170510-96787-bvbil1.rb extconf.rb
+/Users/katyou/.rbenv/versions/2.2.4/bin/ruby -r ./siteconf20170512-55997-1wbk6ht.rb extconf.rb
 creating Makefile
 
 current directory: /Users/katyou/Desktop/ijgn/holiday_concierge/vendor/bundle/ruby/2.2.0/gems/byebug-9.0.6/ext/byebug
@@ -16,4 +16,4 @@ linking shared-object byebug/byebug.bundle
 
 current directory: /Users/katyou/Desktop/ijgn/holiday_concierge/vendor/bundle/ruby/2.2.0/gems/byebug-9.0.6/ext/byebug
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20170510-96787-21zry3/byebug
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20170512-55997-u1oko2/byebug
